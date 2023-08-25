@@ -5,8 +5,3 @@ c
 d
 a
 c
-<<<<<<< Updated upstream
-=======
-e
-d
->>>>>>> Stashed changes
