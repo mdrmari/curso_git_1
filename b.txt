@@ -2,3 +2,7 @@ Testando atualização do
 a
 b
 c
+<<<<<<< Updated upstream
+=======
+d
+>>>>>>> Stashed changes
